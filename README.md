@@ -2,9 +2,9 @@
 
 **Data on things people have opinions about.**
 
-I take public data on questions people argue about, work it end to end, and publish
-the whole thing — the charts, the underlying dataset, and where every number came
-from. Sources cited, methodology shown, conclusions left to you.
+I take public data on questions people argue about — or just find interesting — work
+it end to end, and publish the whole thing: the charts, the underlying dataset, and
+where every number came from. Sources cited, methodology shown, conclusions left to you.
 
 ### → Start here: **[unwelcomedata.github.io](https://unwelcomedata.github.io/)**
 
